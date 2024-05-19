@@ -1,0 +1,5 @@
+{"time":"2024-05-19 12:25:33","ip":"127.0.0.1","method":"GET","status_code":200,"path":"/v1","query":null,"body":null,"response":{"name":"kawaii-shop","version":"v0.1.0"}}
+{"time":"2024-05-19 12:28:14","ip":"127.0.0.1","method":"GET","status_code":200,"path":"/v1","query":null,"body":null,"response":{"name":"kawaii-shop","version":"v0.1.0"}}
+{"time":"2024-05-19 12:32:00","ip":"127.0.0.1","method":"GET","status_code":200,"path":"/v1","query":null,"body":null,"response":{"name":"kawaii-shop","version":"v0.1.0"}}
+{"time":"2024-05-19 12:36:48","ip":"127.0.0.1","method":"GET","status_code":200,"path":"/v1","query":null,"body":null,"response":{"name":"kawaii-shop","version":"v0.1.0"}}
+{"time":"2024-05-19 12:38:53","ip":"127.0.0.1","method":"GET","status_code":200,"path":"/v1","query":null,"body":null,"response":{"name":"kawaii-shop","version":"v0.1.0"}}
